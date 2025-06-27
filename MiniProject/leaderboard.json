@@ -1,0 +1,104 @@
+{
+    "2x2": [
+        {
+            "name": "Anil",
+            "moves": 2,
+            "time": 6.75
+        },
+        {
+            "name": "lohith",
+            "moves": 2,
+            "time": 19.12
+        },
+        {
+            "name": "Aadarsh",
+            "moves": 3,
+            "time": 4.69
+        },
+        {
+            "name": "sss",
+            "moves": 3,
+            "time": 8.18
+        },
+        {
+            "name": "bhanu",
+            "moves": 3,
+            "time": 9.13
+        },
+        {
+            "name": "kkk",
+            "moves": 3,
+            "time": 26.17
+        },
+        {
+            "name": "ss",
+            "moves": 4,
+            "time": 9.67
+        },
+        {
+            "name": "sreeja",
+            "moves": 4,
+            "time": 13.95
+        }
+    ],
+    "3x3": [
+        {
+            "name": "sreeja",
+            "moves": 6,
+            "time": 22.14
+        },
+        {
+            "name": "Yuvan",
+            "moves": 6,
+            "time": 24.63
+        },
+        {
+            "name": "Anil",
+            "moves": 7,
+            "time": 19.37
+        },
+        {
+            "name": "boy",
+            "moves": 7,
+            "time": 37.12
+        },
+        {
+            "name": "Mettu bhai",
+            "moves": 8,
+            "time": 52.39
+        },
+        {
+            "name": "tej",
+            "moves": 9,
+            "time": 46.88
+        },
+        {
+            "name": "small",
+            "moves": 11,
+            "time": 55.61
+        },
+        {
+            "name": "lohith",
+            "moves": 13,
+            "time": 77.38
+        }
+    ],
+    "4x4": [],
+    "5x5": [
+        {
+            "name": "anil",
+            "moves": 24,
+            "time": 161.31
+        },
+        {
+            "name": "varsh",
+            "moves": 37,
+            "time": 275.99
+        },
+        {
+            "name": "varshu",
+            "moves": 39,
+            "time": 190.46
+        }
+    ]
+}

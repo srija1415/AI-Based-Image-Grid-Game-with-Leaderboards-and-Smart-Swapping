@@ -110,9 +110,13 @@ python main.py --leaderboard
 === LEADERBOARD (3x3) ===
 
 Rank | Time     | Name     | Moves
+
 ----------------------------------------
+
  1🥇 | 1:42.35  | srija    |    15
+ 
  2🥈 | 2:10.12  | Bob      |    16
+ 
  3🥉 | 2:35.88  | Carol    |    17
  
 🧪 Model Details
@@ -135,13 +139,19 @@ Training
 
     You can train the CNN model separately using synthetic shuffled puzzle pieces and supervised learning with cross-entropy loss.
 
-📁 Project Structure
-├── puzzle_solver.py               # Main puzzle game code
-├── leaderboard.json               # Persistent leaderboard data
-├── image.jpg
-├── lion.jpg
-├── requirements.txt
-└── README.md
+        📁 Project Structure
+        
+        ├── puzzle_solver.py               # Main puzzle game code
+        
+        ├── leaderboard.json               # Persistent leaderboard data
+        
+        ├── image.jpg
+        
+        ├── lion.jpg
+        
+        ├── requirements.txt
+        
+        └── README.md
 
 👨‍💻 Developer Info
 

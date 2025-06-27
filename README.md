@@ -5,26 +5,40 @@ This repository contains an interactive Python-based image puzzle game built wit
 An intelligent puzzle-solving system that allows users to upload any image, play a shuffled tile puzzle, track performance, and optionally auto-solve using a CNN model trained to classify piece positions.
 
 🚀 Features
+
 🧠 CNN-Based Solver
 CNN model classifies each tile to its original position.
+
 Users can view model predictions or manually solve the puzzle.
 
 🧩 Interactive Puzzle Interface
+
 Built with matplotlib for visual interaction.
+
 Swap tiles using mouse clicks.
+
 Real-time move counter and timer.
 
 ♻️ Game Controls
+
 Undo/Redo: Reverse or reapply moves (u/y keys).
+
 Restart: Reset the puzzle to initial state (r key).
+
 Hint: Display original image (limit of 3 hints per game, press h).
+
 Quit: Exit the game (q key).
 
 🏆 Leaderboard
+
 Stores top 10 scores per grid size (2x2, 3x3, 4x4, 5x5).
+
 Sorts by fewest moves and fastest completion time.
+
 View leaderboard in:
+
 📊 Popup window (l key)
+
 📋 Terminal (t key)
 
 🖼️ Example Gameplay (Controls)
@@ -40,15 +54,23 @@ Controls:
 - 'q' : Quit
   
 🧱 System Architecture
+
 Frontend: matplotlib GUI for gameplay and event handling.
+
 CNN Model: Keras-based model trained on puzzle tile data.
+
 Leaderboard: JSON-based storage grouped by grid size.
+
 Input Handling: argparse CLI interface for loading leaderboard or launching gameplay.
 
 🛠 Installation & Setup
+
 ✅ Prerequisites
+
 Python 3.8+
+
 pip (Python package manager)
+
 Virtual environment (recommended)
 
 📦 Installation

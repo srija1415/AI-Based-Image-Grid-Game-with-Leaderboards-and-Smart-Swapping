@@ -26,8 +26,9 @@ Sorts by fewest moves and fastest completion time.
 View leaderboard in:
 📊 Popup window (l key)
 📋 Terminal (t key)
+
 🖼️ Example Gameplay (Controls)
-vbnet
+
 Controls:
 - Click to select and swap tiles
 - 'r' : Restart puzzle
@@ -37,6 +38,7 @@ Controls:
 - 'l' : Leaderboard (window)
 - 't' : Leaderboard (terminal)
 - 'q' : Quit
+  
 🧱 System Architecture
 Frontend: matplotlib GUI for gameplay and event handling.
 CNN Model: Keras-based model trained on puzzle tile data.

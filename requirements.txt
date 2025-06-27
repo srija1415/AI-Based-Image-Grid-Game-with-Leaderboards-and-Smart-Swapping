@@ -1,0 +1,6 @@
+numpy>=1.19.2
+matplotlib>=3.3.2
+Pillow>=8.0.0
+tensorflow==2.4.0
+scikit-image>=0.17.2
+protobuf==3.20.0
